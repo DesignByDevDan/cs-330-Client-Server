@@ -2,6 +2,11 @@
 
 **Submodule:** [cs-330-client-server](./cs-330-client-server)
 
+### Module 8 Artifacts
+
+- [Download Final Project Milestones ZIP (GitHub Release)](https://github.com/DesignByDevDan/Computer-Science-Portfolio/releases/download/v1.0-module8/7-1_FinalProjectMilestones.zip)  
+
+
 ### Journal Reflection
 
 1. **How do I approach designing software?**  
